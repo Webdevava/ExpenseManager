@@ -10,7 +10,7 @@ ExpenseManager is a web application built using React that allows users to track
 - Responsive design that adjusts based on the screen size, making it easy to use on devices of different sizes.
 
 ## Live-Demo
-[demo[(https://expense-manager-blond.vercel.app/)
+[demo](https://expense-manager-blond.vercel.app/)
 
 ## Getting Started
 
