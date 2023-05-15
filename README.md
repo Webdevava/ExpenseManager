@@ -46,7 +46,7 @@ Contributions to the ExpenseManager project are welcome. If you would like to co
 
 ## To-Do
 
-1. Add <kbh>delete</kbh>
+1. Add  <kbd>delete</kbd>  button 
 2. Login and sign-in page
 3. Auth
 4. Beautify styles
