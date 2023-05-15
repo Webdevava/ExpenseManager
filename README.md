@@ -42,3 +42,12 @@ Contributions to the ExpenseManager project are welcome. If you would like to co
 3. Make your changes and commit them
 4. Push your changes to your fork
 5. Create a pull request
+
+
+## To-Do
+
+1. Add <kbh>delete</kbh>
+2. Login and sign-in page
+3. Auth
+4. Beautify styles
+5. Edit expenses
